@@ -1,3 +1,11 @@
 .panel-title {
   color: black;
 }
+#tagline {
+  font-size: 14px;
+}
+.sidebar {
+  width: 8%;
+  float: left;
+  background-color: gray
+}
